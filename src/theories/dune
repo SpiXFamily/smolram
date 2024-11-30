@@ -1,0 +1,5 @@
+(include_subdirs qualified)
+(coq.theory
+ (name TinyRAM)
+ (synopsis "https://www.scipr-lab.org/doc/TinyRAM-spec-2.000.pdf")
+ (package coq-tinyram))
